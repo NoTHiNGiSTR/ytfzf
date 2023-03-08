@@ -1,1 +1,1 @@
-First change for new commit in branch1
+Second change for new commit in branch1
